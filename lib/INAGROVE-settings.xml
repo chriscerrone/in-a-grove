@@ -3,70 +3,97 @@
 <pattrstorage name = "u458018884">
 	<slot number = "1">
 		<pattr name = "button[16]" value = "0." />
-		<pattr name = "gain~" value = "404" />
-		<pattr name = "gain~[10]" value = "334" />
-		<pattr name = "gain~[11]" value = "294" />
-		<pattr name = "gain~[12]" value = "327" />
-		<pattr name = "gain~[13]" value = "354" />
-		<pattr name = "gain~[14]" value = "381" />
+		<pattr name = "gain~" value = "387" />
+		<pattr name = "gain~[10]" value = "315" />
+		<pattr name = "gain~[11]" value = "314" />
+		<pattr name = "gain~[12]" value = "303" />
+		<pattr name = "gain~[13]" value = "367" />
+		<pattr name = "gain~[14]" value = "235" />
 		<pattr name = "gain~[15]" value = "364" />
 		<pattr name = "gain~[16]" value = "0" />
 		<pattr name = "gain~[17]" value = "310" />
-		<pattr name = "gain~[18]" value = "381" />
-		<pattr name = "gain~[1]" value = "308" />
+		<pattr name = "gain~[18]" value = "235" />
+		<pattr name = "gain~[19]" value = "0" />
+		<pattr name = "gain~[1]" value = "286" />
 		<pattr name = "gain~[20]" value = "365" />
 		<pattr name = "gain~[21]" value = "0" />
-		<pattr name = "gain~[22]" value = "332" />
+		<pattr name = "gain~[22]" value = "338" />
+		<pattr name = "gain~[23]" value = "365" />
+		<pattr name = "gain~[24]" value = "0" />
+		<pattr name = "gain~[25]" value = "0" />
 		<pattr name = "gain~[26]" value = "0" />
-		<pattr name = "gain~[27]" value = "303" />
+		<pattr name = "gain~[27]" value = "324" />
 		<pattr name = "gain~[28]" value = "302" />
 		<pattr name = "gain~[29]" value = "329" />
-		<pattr name = "gain~[30]" value = "229" />
-		<pattr name = "gain~[31]" value = "365" />
-		<pattr name = "gain~[32]" value = "137" />
-		<pattr name = "gain~[34]" value = "370" />
-		<pattr name = "gain~[36]" value = "450" />
-		<pattr name = "gain~[38]" value = "405" />
-		<pattr name = "gain~[40]" value = "362" />
-		<pattr name = "gain~[42]" value = "429" />
-		<pattr name = "gain~[44]" value = "455" />
-		<pattr name = "gain~[46]" value = "380" />
-		<pattr name = "gain~[48]" value = "440" />
+		<pattr name = "gain~[30]" value = "120" />
+		<pattr name = "gain~[31]" value = "120" />
+		<pattr name = "gain~[32]" value = "120" />
+		<pattr name = "gain~[34]" value = "267" />
+		<pattr name = "gain~[36]" value = "376" />
+		<pattr name = "gain~[38]" value = "360" />
+		<pattr name = "gain~[40]" value = "354" />
+		<pattr name = "gain~[42]" value = "374" />
+		<pattr name = "gain~[44]" value = "443" />
+		<pattr name = "gain~[46]" value = "356" />
+		<pattr name = "gain~[48]" value = "388" />
 		<pattr name = "gain~[50]" value = "395" />
-		<pattr name = "gain~[51]" value = "299" />
+		<pattr name = "gain~[51]" value = "120" />
 		<pattr name = "gain~[52]" value = "437" />
-		<pattr name = "gain~[53]" value = "348" />
+		<pattr name = "gain~[53]" value = "120" />
 		<pattr name = "gain~[54]" value = "306" />
-		<pattr name = "gain~[55]" value = "278" />
+		<pattr name = "gain~[55]" value = "120" />
 		<pattr name = "gain~[56]" value = "345" />
-		<pattr name = "gain~[5]" value = "300" />
+		<pattr name = "gain~[57]" value = "365" />
+		<pattr name = "gain~[58]" value = "0" />
+		<pattr name = "gain~[59]" value = "365" />
+		<pattr name = "gain~[5]" value = "281" />
+		<pattr name = "gain~[60]" value = "0" />
 		<pattr name = "gain~[61]" value = "410" />
 		<pattr name = "gain~[62]" value = "413" />
-		<pattr name = "gain~[63]" value = "429" />
-		<pattr name = "gain~[64]" value = "405" />
-		<pattr name = "gain~[65]" value = "387" />
+		<pattr name = "gain~[63]" value = "441" />
+		<pattr name = "gain~[64]" value = "400" />
+		<pattr name = "gain~[65]" value = "400" />
+		<pattr name = "gain~[66]" value = "365" />
+		<pattr name = "gain~[67]" value = "0" />
+		<pattr name = "gain~[68]" value = "365" />
 		<pattr name = "gain~[6]" value = "0" />
-		<pattr name = "gain~[70]" value = "295" />
-		<pattr name = "gain~[72]" value = "339" />
-		<pattr name = "gain~[74]" value = "354" />
-		<pattr name = "gain~[7]" value = "333" />
-		<pattr name = "gain~[8]" value = "499" />
+		<pattr name = "gain~[70]" value = "285" />
+		<pattr name = "gain~[72]" value = "299" />
+		<pattr name = "gain~[74]" value = "342" />
+		<pattr name = "gain~[75]" value = "365" />
+		<pattr name = "gain~[76]" value = "365" />
+		<pattr name = "gain~[77]" value = "365" />
+		<pattr name = "gain~[7]" value = "360" />
+		<pattr name = "gain~[8]" value = "479" />
 		<pattr name = "gain~[9]" value = "365" />
 		<pattr name = "js" value = "" />
-		<pattr name = "number[12]" value = "381" />
-		<pattr name = "number[20]" value = "332" />
+		<pattr name = "number[12]" value = "235" />
+		<pattr name = "number[16]" value = "0" />
+		<pattr name = "number[17]" value = "365" />
+		<pattr name = "number[20]" value = "338" />
+		<pattr name = "number[21]" value = "0" />
+		<pattr name = "number[22]" value = "0" />
+		<pattr name = "number[23]" value = "365" />
 		<pattr name = "number[24]" value = "0" />
+		<pattr name = "number[46]" value = "0" />
+		<pattr name = "number[47]" value = "365" />
+		<pattr name = "number[48]" value = "0" />
+		<pattr name = "number[49]" value = "365" />
+		<pattr name = "number[55]" value = "0" />
+		<pattr name = "number[56]" value = "500" />
+		<pattr name = "number[57]" value = "365" />
+		<pattr name = "number[61]" value = "365" />
 		<pattr name = "toggle[18]" value = "0" />
 		<pattr name = "toggle[19]" value = "0" />
 		<pattr name = "toggle[20]" value = "0" />
 		<pattr name = "toggle[21]" value = "0" />
 		<pattr name = "toggle[22]" value = "0" />
-		<pattr name = "toggle[26]" value = "1" />
-		<pattr name = "toggle[27]" value = "0" />
+		<pattr name = "toggle[26]" value = "0" />
+		<pattr name = "toggle[27]" value = "1" />
 		<pattr name = "toggle[28]" value = "1" />
 		<pattr name = "toggle[7]" value = "1" />
-		<pattr name = "umenu" value = "0" />
-		<pattr name = "umenu[2]" value = "1" />
+		<pattr name = "umenu" value = "1" />
+		<pattr name = "umenu[2]" value = "4" />
 		<patcher name = "sample-players">
 			<patcher name = "cc_sample_player[236]">
 				<patcher name = "sample-player">
@@ -934,9 +961,9 @@
 			</patcher>
 			<patcher name = "cc_sample_player[128]">
 				<patcher name = "sample-player">
-					<pattr name = "gain~" value = "365" />
-					<pattr name = "gain~[1]" value = "365" />
-					<pattr name = "number" value = "365" />
+					<pattr name = "gain~" value = "389" />
+					<pattr name = "gain~[1]" value = "389" />
+					<pattr name = "number" value = "389" />
 					<pattr name = "toggle" value = "0" />
 				</patcher>
 			</patcher>
@@ -969,7 +996,7 @@
 					<pattr name = "gain~" value = "369" />
 					<pattr name = "gain~[1]" value = "369" />
 					<pattr name = "number" value = "369" />
-					<pattr name = "toggle" value = "0" />
+					<pattr name = "toggle" value = "1" />
 				</patcher>
 			</patcher>
 			<patcher name = "cc_sample_player[123]">
@@ -1009,7 +1036,7 @@
 					<pattr name = "gain~" value = "365" />
 					<pattr name = "gain~[1]" value = "365" />
 					<pattr name = "number" value = "365" />
-					<pattr name = "toggle" value = "0" />
+					<pattr name = "toggle" value = "1" />
 				</patcher>
 			</patcher>
 			<patcher name = "cc_sample_player[118]">
@@ -1017,7 +1044,7 @@
 					<pattr name = "gain~" value = "365" />
 					<pattr name = "gain~[1]" value = "365" />
 					<pattr name = "number" value = "365" />
-					<pattr name = "toggle" value = "0" />
+					<pattr name = "toggle" value = "1" />
 				</patcher>
 			</patcher>
 			<patcher name = "cc_sample_player[117]">
@@ -1355,7 +1382,7 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "0" />
+						<pattr name = "toggle" value = "1" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.2">
@@ -1364,7 +1391,7 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "0" />
+						<pattr name = "toggle" value = "1" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.3">
@@ -1373,7 +1400,7 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "0" />
+						<pattr name = "toggle" value = "1" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.4">
@@ -1382,7 +1409,7 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "0" />
+						<pattr name = "toggle" value = "1" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.5">
@@ -1391,7 +1418,7 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "0" />
+						<pattr name = "toggle" value = "1" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.6">
@@ -1400,7 +1427,7 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "0" />
+						<pattr name = "toggle" value = "1" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.7">
@@ -1409,7 +1436,7 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "0" />
+						<pattr name = "toggle" value = "1" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.8">
@@ -1418,7 +1445,7 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "0" />
+						<pattr name = "toggle" value = "1" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.9">
@@ -1427,7 +1454,7 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "0" />
+						<pattr name = "toggle" value = "1" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.10">
@@ -1436,7 +1463,7 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "0" />
+						<pattr name = "toggle" value = "1" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.11">
@@ -1445,7 +1472,7 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "0" />
+						<pattr name = "toggle" value = "1" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.12">
@@ -1454,7 +1481,7 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "0" />
+						<pattr name = "toggle" value = "1" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.13">
@@ -1463,7 +1490,7 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "1" />
+						<pattr name = "toggle" value = "0" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.14">
@@ -1472,7 +1499,7 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "1" />
+						<pattr name = "toggle" value = "0" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.15">
@@ -1481,7 +1508,7 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "1" />
+						<pattr name = "toggle" value = "0" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.16">
@@ -1490,15 +1517,15 @@
 						<pattr name = "gain~[1]" value = "401" />
 						<pattr name = "number" value = "401" />
 						<pattr name = "number[1]" value = "401" />
-						<pattr name = "toggle" value = "1" />
+						<pattr name = "toggle" value = "0" />
 					</patcher>
 				</patcher>
 			</patcher>
 			<patcher name = "cc_sample_player[76]">
 				<patcher name = "sample-player">
-					<pattr name = "gain~" value = "385" />
-					<pattr name = "gain~[1]" value = "385" />
-					<pattr name = "number" value = "385" />
+					<pattr name = "gain~" value = "365" />
+					<pattr name = "gain~[1]" value = "365" />
+					<pattr name = "number" value = "365" />
 					<pattr name = "toggle" value = "0" />
 				</patcher>
 			</patcher>
@@ -1889,7 +1916,7 @@
 						<pattr name = "gain~[1]" value = "245" />
 						<pattr name = "number" value = "245" />
 						<pattr name = "number[1]" value = "245" />
-						<pattr name = "toggle" value = "0" />
+						<pattr name = "toggle" value = "1" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.6">
@@ -1916,7 +1943,7 @@
 						<pattr name = "gain~[1]" value = "245" />
 						<pattr name = "number" value = "245" />
 						<pattr name = "number[1]" value = "245" />
-						<pattr name = "toggle" value = "1" />
+						<pattr name = "toggle" value = "0" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.9">
@@ -1925,7 +1952,7 @@
 						<pattr name = "gain~[1]" value = "245" />
 						<pattr name = "number" value = "245" />
 						<pattr name = "number[1]" value = "245" />
-						<pattr name = "toggle" value = "1" />
+						<pattr name = "toggle" value = "0" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.10">
@@ -1934,7 +1961,7 @@
 						<pattr name = "gain~[1]" value = "245" />
 						<pattr name = "number" value = "245" />
 						<pattr name = "number[1]" value = "245" />
-						<pattr name = "toggle" value = "1" />
+						<pattr name = "toggle" value = "0" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.11">
@@ -1943,7 +1970,7 @@
 						<pattr name = "gain~[1]" value = "245" />
 						<pattr name = "number" value = "245" />
 						<pattr name = "number[1]" value = "245" />
-						<pattr name = "toggle" value = "1" />
+						<pattr name = "toggle" value = "0" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.12">
@@ -1952,7 +1979,7 @@
 						<pattr name = "gain~[1]" value = "245" />
 						<pattr name = "number" value = "245" />
 						<pattr name = "number[1]" value = "245" />
-						<pattr name = "toggle" value = "1" />
+						<pattr name = "toggle" value = "0" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.13">
@@ -1961,7 +1988,7 @@
 						<pattr name = "gain~[1]" value = "245" />
 						<pattr name = "number" value = "245" />
 						<pattr name = "number[1]" value = "245" />
-						<pattr name = "toggle" value = "1" />
+						<pattr name = "toggle" value = "0" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.14">
@@ -1970,7 +1997,7 @@
 						<pattr name = "gain~[1]" value = "245" />
 						<pattr name = "number" value = "245" />
 						<pattr name = "number[1]" value = "245" />
-						<pattr name = "toggle" value = "1" />
+						<pattr name = "toggle" value = "0" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.15">
@@ -1979,7 +2006,7 @@
 						<pattr name = "gain~[1]" value = "245" />
 						<pattr name = "number" value = "245" />
 						<pattr name = "number[1]" value = "245" />
-						<pattr name = "toggle" value = "1" />
+						<pattr name = "toggle" value = "0" />
 					</patcher>
 				</patcher>
 				<patcher name = "poly~.16">
@@ -2122,9 +2149,9 @@
 			</patcher>
 			<patcher name = "cc_sample_player[16]">
 				<patcher name = "sample-player">
-					<pattr name = "gain~" value = "499" />
-					<pattr name = "gain~[1]" value = "499" />
-					<pattr name = "number" value = "499" />
+					<pattr name = "gain~" value = "484" />
+					<pattr name = "gain~[1]" value = "484" />
+					<pattr name = "number" value = "484" />
 					<pattr name = "toggle" value = "0" />
 				</patcher>
 			</patcher>
@@ -2138,41 +2165,41 @@
 			</patcher>
 			<patcher name = "cc_sample_player[14]">
 				<patcher name = "sample-player">
-					<pattr name = "gain~" value = "365" />
-					<pattr name = "gain~[1]" value = "365" />
-					<pattr name = "number" value = "365" />
+					<pattr name = "gain~" value = "360" />
+					<pattr name = "gain~[1]" value = "360" />
+					<pattr name = "number" value = "360" />
 					<pattr name = "toggle" value = "0" />
 				</patcher>
 			</patcher>
 			<patcher name = "cc_sample_player[13]">
 				<patcher name = "sample-player">
-					<pattr name = "gain~" value = "365" />
-					<pattr name = "gain~[1]" value = "365" />
-					<pattr name = "number" value = "365" />
+					<pattr name = "gain~" value = "360" />
+					<pattr name = "gain~[1]" value = "360" />
+					<pattr name = "number" value = "360" />
 					<pattr name = "toggle" value = "0" />
 				</patcher>
 			</patcher>
 			<patcher name = "cc_sample_player[12]">
 				<patcher name = "sample-player">
-					<pattr name = "gain~" value = "365" />
-					<pattr name = "gain~[1]" value = "365" />
-					<pattr name = "number" value = "365" />
+					<pattr name = "gain~" value = "360" />
+					<pattr name = "gain~[1]" value = "360" />
+					<pattr name = "number" value = "360" />
 					<pattr name = "toggle" value = "0" />
 				</patcher>
 			</patcher>
 			<patcher name = "cc_sample_player[11]">
 				<patcher name = "sample-player">
-					<pattr name = "gain~" value = "365" />
-					<pattr name = "gain~[1]" value = "365" />
-					<pattr name = "number" value = "365" />
+					<pattr name = "gain~" value = "360" />
+					<pattr name = "gain~[1]" value = "360" />
+					<pattr name = "number" value = "360" />
 					<pattr name = "toggle" value = "0" />
 				</patcher>
 			</patcher>
 			<patcher name = "cc_sample_player[10]">
 				<patcher name = "sample-player">
-					<pattr name = "gain~" value = "365" />
-					<pattr name = "gain~[1]" value = "365" />
-					<pattr name = "number" value = "365" />
+					<pattr name = "gain~" value = "360" />
+					<pattr name = "gain~[1]" value = "360" />
+					<pattr name = "number" value = "360" />
 					<pattr name = "toggle" value = "0" />
 				</patcher>
 			</patcher>
@@ -2226,25 +2253,25 @@
 			</patcher>
 			<patcher name = "cc_sample_player[3]">
 				<patcher name = "sample-player">
-					<pattr name = "gain~" value = "365" />
-					<pattr name = "gain~[1]" value = "365" />
-					<pattr name = "number" value = "365" />
+					<pattr name = "gain~" value = "441" />
+					<pattr name = "gain~[1]" value = "441" />
+					<pattr name = "number" value = "441" />
 					<pattr name = "toggle" value = "0" />
 				</patcher>
 			</patcher>
 			<patcher name = "cc_sample_player[2]">
 				<patcher name = "sample-player">
-					<pattr name = "gain~" value = "404" />
-					<pattr name = "gain~[1]" value = "404" />
-					<pattr name = "number" value = "404" />
+					<pattr name = "gain~" value = "349" />
+					<pattr name = "gain~[1]" value = "349" />
+					<pattr name = "number" value = "349" />
 					<pattr name = "toggle" value = "0" />
 				</patcher>
 			</patcher>
 			<patcher name = "cc_sample_player[1]">
 				<patcher name = "sample-player">
-					<pattr name = "gain~" value = "365" />
-					<pattr name = "gain~[1]" value = "365" />
-					<pattr name = "number" value = "365" />
+					<pattr name = "gain~" value = "359" />
+					<pattr name = "gain~[1]" value = "359" />
+					<pattr name = "number" value = "359" />
 					<pattr name = "toggle" value = "0" />
 				</patcher>
 			</patcher>
